@@ -1,0 +1,3 @@
+/home/alex/Projects/ForLoop3/ForLoop3/bin/Release/ForLoop3.exe
+/home/alex/Projects/ForLoop3/ForLoop3/obj/x86/Release/ForLoop3.exe
+/home/alex/Projects/ForLoop3/ForLoop3/obj/x86/Release/ForLoop3.csprojAssemblyReference.cache
